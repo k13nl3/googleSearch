@@ -1,0 +1,6 @@
+2017-06-25 22:08:44 ERROR SearchWorker:188 - java.util.concurrent.ExecutionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2017-06-25 22:10:25 ERROR SearchWorker:189 - java.util.concurrent.ExecutionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2017-06-25 22:11:41 ERROR SearchWorker:189 - java.util.concurrent.ExecutionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2017-06-25 22:12:40 ERROR SearchWorker:189 - java.util.concurrent.ExecutionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2017-06-25 22:20:24 ERROR ExcelUtils:165 - java.io.FileNotFoundException: 
+2017-06-25 22:23:18 ERROR ExcelUtils:165 - java.io.FileNotFoundException: 
